@@ -44,4 +44,3 @@ This project analyzes BlinkIT grocery sales using Excel and Power BI to identify
 
 
 
-(Add your dashboard screenshot below this section.)
