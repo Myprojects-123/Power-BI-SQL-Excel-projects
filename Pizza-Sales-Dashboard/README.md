@@ -42,13 +42,16 @@ This project analyzes pizza sales data using SQL, Excel, and Power BI to underst
 
 ---
 
-## Dashboard 1 - Sales Overview
+## Dashboard Preview
 
-![Sales Overview](Pizza-Sales-Dashboard/dashboard.png)
+### Dashboard 1 - Sales Overview
 
-## Dashboard 2 - Best & Worst Sellers
+![Sales Overview](Dashboard.png)
 
-![Best & Worst Sellers](Pizza-Sales-Dashboard/BestWorst-Sellers.png)
+### Dashboard 2 - Best & Worst Sellers
+
+![Best & Worst Sellers](BestWorst-Sellers.png)
+
 ## Business Insights
 
 - Identified top-selling pizzas.
