@@ -36,6 +36,10 @@ This project analyzes BlinkIT grocery sales using Excel and Power BI to identify
 
 ---
 
+## Dashboard Preview
+
+![BlinkIT Dashboard](Dashboard.png)
+
 ## Files Included
 
 - blinkit.pbix
